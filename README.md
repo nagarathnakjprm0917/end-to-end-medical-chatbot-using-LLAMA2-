@@ -23,7 +23,7 @@ def chat():
 
     return result["result"]
 
-    Techstack Used:
+Techstack Used:
 Python
 LangChain
 Flask
