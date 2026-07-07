@@ -23,3 +23,10 @@ def chat():
 
     return result["result"]
 
+    Techstack Used:
+Python
+LangChain
+Flask
+Meta Llama2
+Pinecone
+
