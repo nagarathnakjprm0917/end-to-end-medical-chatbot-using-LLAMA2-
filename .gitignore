@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+model\llama-2-7b-chat.ggmlv3.q3_K_S.bin
+
+# Environment variables
+.env
+
+# Models
+model/
+*.bin
+*.gguf
+
+# Dataset
+data/
+*.pdf
